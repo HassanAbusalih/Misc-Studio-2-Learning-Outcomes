@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Studio 2 - Learning Outcomes/[Ll]ibrary/
+Studio 2 - Learning Outcomes/[Tt]emp/
+Studio 2 - Learning Outcomes/[Oo]bj/
+Studio 2 - Learning Outcomes/[Bb]uild/
+Studio 2 - Learning Outcomes/[Bb]uilds/
+Studio 2 - Learning Outcomes/[Ll]ogs/
+Studio 2 - Learning Outcomes/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
